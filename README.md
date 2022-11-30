@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gustavo Camillo
+### Hey! I'm Gustavo Camillo
 
 <div align="center">
   <a href="https://github.com/guscamillo">
